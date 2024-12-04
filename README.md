@@ -1,3 +1,5 @@
+See the project <a herf="https://b-rajshekar.github.io/AmazonClone/">here</a>
+
 **Technologies Used**
 HTML5: For structuring the website.
 CSS3: For styling.
