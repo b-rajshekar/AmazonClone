@@ -138,7 +138,7 @@ span {
 
 /* hero section */
 .hero-section {
-    background-image: url("/img/box6_image.jpg");
+    background-image: url("https://images-eu.ssl-images-amazon.com/images/G/31/prime/Retention/Winback/PC_winback_3000x1200._CB560844427_.jpg");
     background-size: cover;
     height: 350px;
     display: flex;
@@ -246,4 +246,22 @@ ul a {
     background-size: cover;
     height: 50px;
     width: 100px;
+}
+
+.foot-panel4 {
+    background-color: #0f1111;
+    color: white;
+    height: 76px;
+    font-size: 0.7rem;
+    text-align: center;
+}
+
+.pages {
+    font-size: 0.7rem;
+    text-align: center;
+    padding-top: 25px;
+}
+
+.copyright {
+    padding-top: 5px;
 }
